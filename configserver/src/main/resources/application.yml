@@ -12,8 +12,8 @@ spring:
           #项目中的配置文件存放的目录
           searchPaths: config
           #Git的账户名、密码
-          username: 1730365225@qq.com
-          password: 848089816aBgit
+          username: 用户名
+          password: 密码
       label: master
 eureka:
   client:
