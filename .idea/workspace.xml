@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14f1803-0797-4835-8a47-e17549039886" name="Default Changelist" comment="2月8号">
+    <list default="true" id="b14f1803-0797-4835-8a47-e17549039886" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -280,7 +279,7 @@
       <workItem from="1581152362074" duration="2218000" />
       <workItem from="1581154595731" duration="482000" />
       <workItem from="1581155199711" duration="102000" />
-      <workItem from="1581155373200" duration="683000" />
+      <workItem from="1581155373200" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="2月8号">
       <created>1581155829886</created>
@@ -289,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581155829886</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2月8号">
+      <created>1581156126840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581156126840</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2月8号">
+      <created>1581156168068</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581156168068</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,10 +338,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="484" y="72" key="#spring-cloud-starter-netflix-hystrix-2.0.2.RELEASE.jar/0.0.1536.834@0.0.1536.834" timestamp="1581092024161" />
-    <state x="332" y="11" key="CommitChangelistDialog2" timestamp="1581156126027">
+    <state x="332" y="11" key="CommitChangelistDialog2" timestamp="1581156167327">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="332" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581156126027" />
+    <state x="332" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581156167327" />
     <state x="549" y="110" key="FileChooserDialogImpl" timestamp="1581141523537">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -397,14 +410,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1581069744113" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1581156056502">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1581156245227">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581156056502" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1581156135395">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581156245227" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1581156171960">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1581156135395" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1581156171960" />
     <state x="53" y="152" key="new project wizard" timestamp="1581154868777">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
