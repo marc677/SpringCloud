@@ -1,0 +1,13 @@
+#应用的名称
+spring:
+  application:
+    name: configclient
+#要读取的配置的名称 = 应用名称configclient - 下面这个 dev，也就是 configclient-dev.yml
+  profiles:
+    active: dev
+#读取的uri是 配置中心的服务ip地址：端口号
+  cloud:
+    config:
+      uri: http://localhost:8762
+      #设置客户端优先判断 Config Server 获取是否正常
+      fail-fast: true

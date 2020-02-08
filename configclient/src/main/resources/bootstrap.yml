@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    config:
+      #Git上要找的配置文件的文件名（configclient.yml）
+      name: configclient
+      label: master
+      #开启config服务查找
+      discovery:
+        enabled: true
+        #查找config服务提供者（也就是configserver模块注册名）
+        service-id: configserver
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

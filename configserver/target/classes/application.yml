@@ -1,0 +1,22 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: configserver
+  #上传到Git的项目路径
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/marc677/SpringCloud.git
+          #项目中的配置文件存放的目录
+          searchPaths: config
+          #Git的账户名、密码
+          username: 1730365225@qq.com
+          password: 848089816aBgit
+      label: master
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+

@@ -13,12 +13,15 @@
         <module>eurekaclient</module>
         <module>resttemplate</module>
         <module>consumer</module>
-        <module>zuulGateway</module>
         <module>ribbon</module>
         <module>feign</module>
         <module>hystrix</module>
         <module>nativeconfigserver</module>
         <module>nativeconfigclient</module>
+        <module>configserver</module>
+        <module>configclient</module>
+        <module>zipkinclient</module>
+        <module>zipkinserver</module>
     </modules>
 
     <parent>
