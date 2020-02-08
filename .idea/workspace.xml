@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14f1803-0797-4835-8a47-e17549039886" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configclient/configclient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configclient/src/main/java/com/test1/ConfigClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configclient/src/main/java/com/test1/controller/HelloHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configclient/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/configserver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/src/main/java/com/test1/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinclient/src/main/java/com/test1/ZipkinClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinclient/src/main/java/com/test1/controller/ZipkinHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinclient/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinclient/zipkinclient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinserver/src/main/java/com/test1/ZipkinServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkinserver/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuulGateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configclient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuulGateway/src/main/resources/application.yml" beforeDir="false" />
+    <list default="true" id="b14f1803-0797-4835-8a47-e17549039886" name="Default Changelist" comment="2月8号">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -301,8 +280,16 @@
       <workItem from="1581152362074" duration="2218000" />
       <workItem from="1581154595731" duration="482000" />
       <workItem from="1581155199711" duration="102000" />
-      <workItem from="1581155373200" duration="228000" />
+      <workItem from="1581155373200" duration="683000" />
     </task>
+    <task id="LOCAL-00001" summary="2月8号">
+      <created>1581155829886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581155829886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +297,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2月8号" />
+    <option name="LAST_COMMIT_MESSAGE" value="2月8号" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="79" key="#Project_Structure" timestamp="1581155016921">
@@ -336,6 +325,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="484" y="72" key="#spring-cloud-starter-netflix-hystrix-2.0.2.RELEASE.jar/0.0.1536.834@0.0.1536.834" timestamp="1581092024161" />
+    <state x="332" y="11" key="CommitChangelistDialog2" timestamp="1581155978297">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="332" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581155978297" />
     <state x="549" y="110" key="FileChooserDialogImpl" timestamp="1581141523537">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -404,10 +397,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1581069744113" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1581141563189">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1581156056502">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581141563189" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581156056502" />
     <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1581155633831">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
