@@ -1,0 +1,16 @@
+#服务的端口号
+server:
+  port: 8762
+#应用注册的名称
+spring:
+  application:
+    name: nativeconfigserver
+#配置文件的读取方式：本地 和 远程Git
+  profiles:
+    active: native
+#检索本地配置文件 的目录（在类路径resources下的/shared目录中）
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/shared
